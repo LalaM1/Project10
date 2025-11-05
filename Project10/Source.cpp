@@ -248,21 +248,7 @@ public:
 
 void main() {
 
-	//Hospital hospital;
-
-	////hospital.ShowAllDoctors();
-
-	//try
-	//{
-	///*	Doctor doctor("56FGH32", "Turxan", 37, "Stomatoloq");
-	//	hospital.AddDoctor(doctor);*/
-	//	hospital.DeleteDoctor("1F45H89");
-	//	hospital.ShowAllDoctors();
-	//}
-	//catch (string ex)
-	//{
-	//	cout << ex << endl;
-	//}
+	//MEN BURDAKI KOMMENTI SILDIM
 
 	Hospital hospital;
 	int ch;
